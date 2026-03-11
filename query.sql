@@ -11,6 +11,3 @@ CREATE TABLE alumnos (
     carrera VARCHAR(100)
 );
 
--- 4. (Opcional) Insertar un alumno de prueba directamente en SQL
-INSERT INTO alumnos (matricula, nombre, carrera) 
-VALUES ('100016578', 'Mauricio Gonzalez', 'LIDTS 6M');
